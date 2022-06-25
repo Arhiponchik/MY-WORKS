@@ -5,7 +5,7 @@
   </head>
   <body>
     <header>
-      <a class="link-header" href="index.html">ГЫЛАВНАЯ</a>
+      <a class="link-header" href="https://github.com/Arhiponchik/PORTFOLIO#readme">ГЫЛАВНАЯ</a>
     </header>
     <main>
       <h1>Мои сайты</h1>
